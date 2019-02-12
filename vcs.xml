@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="lhh8048" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lhh8048/android-booksearch-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\HyeonHo\Desktop\0626" />
   </component>
 </application>
